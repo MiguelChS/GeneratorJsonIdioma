@@ -1,0 +1,19 @@
+{
+  "name": "generadorjson",
+  "version": "0.0.1",
+  "description": "genra el json para idiomas",
+  "main": "GeneradorJson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel CHS",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelChS/GeneratorJsonIdioma.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MiguelChS/GeneratorJsonIdioma/issues"
+  },
+  "homepage": "https://github.com/MiguelChS/GeneratorJsonIdioma#readme"
+}
