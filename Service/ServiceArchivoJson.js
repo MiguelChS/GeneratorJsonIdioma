@@ -5,7 +5,7 @@ module.exports = {
 			if(err){
 				res.json(err);
 			}else{
-				res.json(data.toString());
+				res.send(data.toString());
 			}
 		});
 	}

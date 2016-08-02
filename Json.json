@@ -1,3 +1,18 @@
+[{
+	"Idioma": "US",
+	"Diccionario": [{
+		"key_Configuracion": "configuration"	
+	}]
+},
 {
-	"nombre":"Miguel"
-}
+	"Idioma": "ES",
+	"Diccionario": [{
+		"key_Configuracion": "configuración"	
+	}]
+},
+{
+	"Idioma": "BR",
+	"Diccionario": [{
+		"key_Configuracion": "configuração"	
+	}]
+}]
